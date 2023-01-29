@@ -8,4 +8,7 @@
   <p>Possuo 19 anos, moro em Florianópolis-SC, e sou desenvolvedor back end Python, estudo TI/SI desde meus 14 anos de idade.<p>
   </br>
   <p>Tenho conhecimento em algumas linguagens de programação, tais elas: <kbd>Shell Script, Python, C, C++ e Assembly</kbd>, possuo conhecimento também em Pentest Web e Desktop, redes de computadores e sistemas Linux.</p>
+
+  <summary align="center"><kbd>minhas limitações:</kbd></summary>
+  <p>t</p>
 </details>
